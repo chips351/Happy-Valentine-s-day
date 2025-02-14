@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
+
+.container div{
+    font-size: 25px;
+}
+
+body{
+    background-color: lightpink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
